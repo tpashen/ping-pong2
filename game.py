@@ -3,10 +3,7 @@
 #2
 
 #3
-# Game Scene
-from turtle import window_height
-
-
+# GameScene
 back = (200, 255, 255)
 win_width = 600
 win_height = 500
